@@ -1,2 +1,6 @@
 # hello-world
-Just my first repository on github
+<!--test ---> 
+
+Hi.
+
+I'm Øistein, norwegian, student, testing github for the first time.
